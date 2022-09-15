@@ -1,0 +1,36 @@
+{
+  "name": "encompass-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.0",
+    "@mui/material": "^5.6.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.2.0",
+    "html-react-parser": "^1.4.10",
+    "moment": "^2.29.1",
+    "next": "12.1.2",
+    "next-auth": "^4.3.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-hook-form": "^7.29.0",
+    "react-markdown": "^8.0.2",
+    "sass": "^1.49.10"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.2",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
